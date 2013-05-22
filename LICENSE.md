@@ -1,4 +1,4 @@
-Copyright © 2012 the [ΩF:∅  Working Group][1]
+Copyright © 2012 [ΩF:∅  Working Group][1] contributors.
 
 All rights reserved.
 
