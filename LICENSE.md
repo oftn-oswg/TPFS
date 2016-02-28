@@ -1,4 +1,4 @@
-Copyright © 2012 [ΩF:∅  Working Group][1] contributors.
+Copyright © 2013 [OFTN Inc.][1]
 
 All rights reserved.
 
@@ -30,4 +30,4 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-[1]: http://wg.oftn.org
+[1]: https://oftn.org
